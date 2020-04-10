@@ -10,8 +10,8 @@ This is the code for CIFAR10 :
 This is the code for GTSRB : 
 
   * v2_traffic_sign_EP_change_pooling.ipynb
-  * v3_traffic_sign_EP_change_pooling.ipynb (deeper NN)
-  It
+  * v3_traffic_sign_EP_change_pooling.ipynb (deeper NN)\
+  It seems that the combination of max pooling and mc-dropout has the best performance although in a deeper NN.
   
   * v2_traffic_sign_EP_change_dropout_rate_2.ipynb
   * v2_traffic_sign_EP_change_dropout_rate_3.ipynb
