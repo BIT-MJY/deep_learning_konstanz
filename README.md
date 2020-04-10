@@ -11,6 +11,7 @@ This is the code for GTSRB :
 
   * v2_traffic_sign_EP_change_pooling.ipynb
   * v3_traffic_sign_EP_change_pooling.ipynb (deeper NN)
+  It
   
   * v2_traffic_sign_EP_change_dropout_rate_2.ipynb
   * v2_traffic_sign_EP_change_dropout_rate_3.ipynb
