@@ -5,8 +5,9 @@ Error Propagation learned from Kai
 ---
 
 
-This is the code for CIFAR10 :\
-  EP outperforms MC-dropout. 
+This is the code for CIFAR10 :
+  * v2_EP_CNN_CIFAR10.ipynb\
+  EP outperforms MC-dropout by comparing ROC curve and AUC-CI.  
 
 This is the code for GTSRB : 
 
